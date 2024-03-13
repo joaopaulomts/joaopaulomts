@@ -39,6 +39,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/jo%C3%A3o-paulo-martins-32b136149/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:jp.nmts@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/joaopaulomts)
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=João_Paulo_Martins)](https://www.linkedin.com/in/jo%C3%A3o-paulo-martins-32b136149/)
+[![GitHub](https://img.shields.io/github/followers/joaopaulomts?label=follow&style=social)](https://github.com/joaopaulomts)
