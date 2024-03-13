@@ -1,11 +1,12 @@
-## Sobre mim
+## Olá! Sou o João Paulo!
+### Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia da Computação na Faculdade SATC.
 - 💼 Trabalhando como Desenvolvedor.
 - 🌱 Aprendendo mais sobre PHP, React, React Native, JavaScript, Python.
 
-## Minhas Skills
+### Minhas Skills
 
 **Aplicações e dados**
 
@@ -16,10 +17,6 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Utilidades**
-
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
@@ -39,8 +36,6 @@
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulomts&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=joaopaulomts&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
-
-<br/>
 
 ## Onde me encontrar
 
