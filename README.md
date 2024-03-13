@@ -39,5 +39,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=João_Paulo_Martins)](https://www.linkedin.com/in/jo%C3%A3o-paulo-martins-32b136149/)
+[![Linkedin](https://img.shields.io/badge/-João_Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=João_Paulo_Martins)](https://www.linkedin.com/in/jo%C3%A3o-paulo-martins-32b136149/)
 [![GitHub](https://img.shields.io/github/followers/joaopaulomts?label=follow&style=social)](https://github.com/joaopaulomts)
