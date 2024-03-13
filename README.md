@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia da Computação na Faculdade SATC.
-- 💼 Trabalhando como Desenvolvedor} na {Engeplus.
+- 💼 Trabalhando como Desenvolvedor.
 - 🌱 Aprendendo mais sobre PHP, React, React Native, JavaScript, Python.
 
 ## Minhas Skills
