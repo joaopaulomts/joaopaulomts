@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I work as a junior programmer, and I am also a computer hardware specialist.<br>- 📚 I am curently improving new skills in Python, Machine Learning and other technologies.<br>- 🖥️ Hardware specialist with in-depth knowledge of products and brands, comparative analyzes and recommending the best solutions for each need.</p>
+<p align="left">- 🔭 I work as a junior developer, and I am also a computer hardware specialist.<br>- 📚 I am curently improving new skills in Python, Machine Learning and other technologies.<br>- 🖥️ Hardware specialist with in-depth knowledge of products and brands, comparative analyzes and recommending the best solutions for each need.</p>
 
 ###
 
