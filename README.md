@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">- 🔭 I work as a developer, and I am also a computer hardware specialist.<br>- 📚 I am curently improving new skills in Python, PHP, Javascript, Java, Node.js and other technologies.<br>- 🖥️ Hardware specialist with in-depth knowledge of products and brands, comparative analyzes and recommending the best solutions for each need.</p>
+<p align="left">- 🔭 I work as a developer, and I am also a computer hardware specialist.<br>- 📚 I am curently improving new skills in Python, PHP, Java, Node.js and other technologies.<br>- 🖥️ Hardware specialist with in-depth knowledge of products and brands, comparative analyzes and recommending the best solutions for each need.</p>
 
 ###
 
